@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Next js**
 
-- 👨‍💻 All of my projects are available at [waleedportfolio.pages.dev](waleedportfolio.pages.dev)
+- 👨‍💻 All of my projects are available at https://waleedportfolio-nine.vercel.app/portfolio.
 
 - 💬 Ask me about **react, JavaScript and Frontend**
 
